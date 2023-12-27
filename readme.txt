@@ -2,4 +2,4 @@ hello git
 
 Git is a very popular version control solution
 
-This is the sixth
+This is the seventh
